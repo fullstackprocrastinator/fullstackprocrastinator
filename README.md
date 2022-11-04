@@ -2,7 +2,7 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [This is a test.](https://fullstackprocrastinator.hashnode.dev/this-is-a-test)<!-- BLOGPOSTS:END -->
+ - 💫 [The Underpinnings of Data Analysis](https://fullstackprocrastinator.hashnode.dev/the-underpinnings-of-data-analysis)<!-- BLOGPOSTS:END -->
 
 <!--
 **fullstackprocrastinator/fullstackprocrastinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
