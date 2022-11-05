@@ -2,7 +2,8 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [The Underpinnings of Data Analysis](https://fullstackprocrastinator.hashnode.dev/the-underpinnings-of-data-analysis)<!-- BLOGPOSTS:END -->
+ - 💫 [Learning How to Learn](https://fullstackprocrastinator.hashnode.dev/learning-how-to-learn)
+ - 💯 [The Underpinnings of Data Analysis](https://fullstackprocrastinator.hashnode.dev/the-underpinnings-of-data-analysis)<!-- BLOGPOSTS:END -->
 
 <!--
 **fullstackprocrastinator/fullstackprocrastinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
