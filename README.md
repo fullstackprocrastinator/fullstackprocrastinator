@@ -2,11 +2,11 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Level Up Your Data Visualisations](https://fullstackprocrastinator.hashnode.dev/level-up-your-data-visualisations)
- - 💯 [Make a Change - The Growth Mindset](https://fullstackprocrastinator.hashnode.dev/make-a-change-the-growth-mindset)
- - 🔥 [Increase Your Productivity, Tackle Procrastination](https://fullstackprocrastinator.hashnode.dev/increase-your-productivity-tackle-procrastination)
- - 🚀 [Learning How to Learn](https://fullstackprocrastinator.hashnode.dev/learning-how-to-learn)
- - 🌮 [The Underpinnings of Data Analysis](https://fullstackprocrastinator.hashnode.dev/the-underpinnings-of-data-analysis)<!-- BLOGPOSTS:END -->
+ - 💫 [How do you actually clean data in Excel?](https://fullstackprocrastinator.hashnode.dev/how-do-you-actually-clean-data-in-excel)
+ - 💯 [Level Up Your Data Visualisations](https://fullstackprocrastinator.hashnode.dev/level-up-your-data-visualisations)
+ - 🔥 [Make a Change - The Growth Mindset](https://fullstackprocrastinator.hashnode.dev/make-a-change-the-growth-mindset)
+ - 🚀 [Increase Your Productivity, Tackle Procrastination](https://fullstackprocrastinator.hashnode.dev/increase-your-productivity-tackle-procrastination)
+ - 🌮 [Learning How to Learn](https://fullstackprocrastinator.hashnode.dev/learning-how-to-learn)<!-- BLOGPOSTS:END -->
 
 <!--
 **fullstackprocrastinator/fullstackprocrastinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
