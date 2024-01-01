@@ -2,11 +2,7 @@
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💫 [Your First Python Project](https://fullstackprocrastinator.hashnode.dev/your-first-python-project)
- - 💯 [The Feynman Technique: A How-to Guide for Lifelong Learners and Students](https://fullstackprocrastinator.hashnode.dev/the-feynman-technique-a-how-to-guide-for-lifelong-learners-and-students)
- - 🔥 [How do you actually clean data in Excel?](https://fullstackprocrastinator.hashnode.dev/how-do-you-actually-clean-data-in-excel)
- - 🚀 [Level Up Your Data Visualisations](https://fullstackprocrastinator.hashnode.dev/level-up-your-data-visualisations)
- - 🌮 [Make a Change - The Growth Mindset](https://fullstackprocrastinator.hashnode.dev/make-a-change-the-growth-mindset)<!-- BLOGPOSTS:END -->
+ - 💫 [Your First Python Project](https://fullstackprocrastinator.hashnode.dev/your-first-python-project)<!-- BLOGPOSTS:END -->
 
 <!--
 **fullstackprocrastinator/fullstackprocrastinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
